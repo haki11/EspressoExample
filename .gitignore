@@ -28,15 +28,7 @@ local.properties
 *.log
 
 # Android Studio / IntelliJ IDEA files
-.idea/caches/
-.idea/libraries/
-.idea/modules.xml
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/navEditor.xml
-.idea/assetWizardSettings.xml
-.idea/deploymentTargetDropDown.xml
-.idea/render.experimental.xml
+.idea/
 *.iml
 
 # Keystore files (NEVER commit your production keys!)
